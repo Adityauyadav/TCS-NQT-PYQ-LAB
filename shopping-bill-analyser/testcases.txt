@@ -1,0 +1,91 @@
+3
+Apple 2 50
+Banana 5 20
+Mango 1 150
+4
+Rice 10 30
+Wheat 5 40
+Oil 2 120
+Sugar 8 25
+1
+Laptop 1 50000
+5
+Pen 10 5
+Pen 20 5
+Pen 5 5
+Book 3 100
+Book 2 100
+3
+Phone 1 20000
+Phone 1 20000
+Charger 2 500
+2
+Gold 1 5000
+Silver 3 1000
+4
+A 1 100
+B 1 100
+C 1 100
+D 1 100
+3
+Milk 10 20
+Milk 5 20
+Eggs 12 10
+5
+TV 1 30000
+Fridge 1 25000
+Washing 1 20000
+AC 1 35000
+Microwave 1 8000
+3
+X 100 1
+Y 1 100
+Z 10 10
+4
+Pen 10 5
+Book 3 100
+Pen 20 5
+Book 2 100
+5
+Coffee 3 200
+Tea 5 100
+Coffee 2 200
+Tea 3 100
+Juice 4 150
+2
+Diamond 1 100000
+Coal 1000 10
+6
+A 1 10
+B 2 10
+C 3 10
+D 4 10
+E 5 10
+F 6 10
+3
+Shoes 2 2000
+Shirt 3 1500
+Shoes 1 2000
+4
+Rice 5 40
+Rice 5 40
+Rice 5 40
+Wheat 100 40
+2
+Same 5 100
+Same 5 100
+5
+Alpha 1 999
+Beta 2 500
+Alpha 1 999
+Gamma 3 333
+Beta 1 500
+3
+Item1 7 143
+Item2 11 91
+Item3 13 77
+4
+Burger 3 150
+Pizza 2 300
+Burger 2 150
+Pizza 1 300
